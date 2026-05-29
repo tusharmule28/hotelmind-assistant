@@ -1,0 +1,107 @@
+[
+  {
+    "name": "The Grand Palace Koregaon Park",
+    "city": "Koregaon Park",
+    "rating": 4.8,
+    "amenities": ["Pool", "Free WiFi", "Gym", "Spa", "Restaurant", "Bar", "Room Service", "Parking", "Air Conditioning", "Breakfast Included"],
+    "base_price": 8500.0
+  },
+  {
+    "name": "Royal Residency Viman Nagar",
+    "city": "Viman Nagar",
+    "rating": 4.5,
+    "amenities": ["Free WiFi", "Gym", "Restaurant", "Bar", "Room Service", "Parking", "Air Conditioning", "Breakfast Included"],
+    "base_price": 5500.0
+  },
+  {
+    "name": "Oasis Retreat Hinjewadi",
+    "city": "Hinjewadi",
+    "rating": 4.2,
+    "amenities": ["Pool", "Free WiFi", "Gym", "Spa", "Restaurant", "Room Service", "Parking", "Air Conditioning"],
+    "base_price": 4200.0
+  },
+  {
+    "name": "Urban Tech Lodge Baner",
+    "city": "Baner",
+    "rating": 4.4,
+    "amenities": ["Free WiFi", "Gym", "Restaurant", "Room Service", "Parking", "Air Conditioning", "Breakfast Included"],
+    "base_price": 3800.0
+  },
+  {
+    "name": "Tech Hub Suites Hinjewadi",
+    "city": "Hinjewadi",
+    "rating": 4.1,
+    "amenities": ["Free WiFi", "Gym", "Parking", "Air Conditioning"],
+    "base_price": 3000.0
+  },
+  {
+    "name": "Sunset View Resort Deccan Gymkhana",
+    "city": "Deccan Gymkhana",
+    "rating": 4.6,
+    "amenities": ["Pool", "Free WiFi", "Spa", "Restaurant", "Bar", "Room Service", "Parking", "Air Conditioning", "Breakfast Included"],
+    "base_price": 7200.0
+  },
+  {
+    "name": "Emerald Suites Kalyani Nagar",
+    "city": "Kalyani Nagar",
+    "rating": 4.7,
+    "amenities": ["Pool", "Free WiFi", "Gym", "Spa", "Restaurant", "Room Service", "Parking", "Air Conditioning", "Breakfast Included"],
+    "base_price": 6800.0
+  },
+  {
+    "name": "Platinum Inn Shivajinagar",
+    "city": "Shivajinagar",
+    "rating": 4.3,
+    "amenities": ["Free WiFi", "Gym", "Restaurant", "Room Service", "Parking", "Air Conditioning"],
+    "base_price": 4800.0
+  },
+  {
+    "name": "Cozy Nest Retreat Deccan Gymkhana",
+    "city": "Deccan Gymkhana",
+    "rating": 4.0,
+    "amenities": ["Free WiFi", "Restaurant", "Parking", "Air Conditioning", "Breakfast Included"],
+    "base_price": 2500.0
+  },
+  {
+    "name": "Luxury Haven Koregaon Park",
+    "city": "Koregaon Park",
+    "rating": 4.9,
+    "amenities": ["Pool", "Free WiFi", "Gym", "Spa", "Restaurant", "Bar", "Room Service", "Parking", "Air Conditioning", "Breakfast Included"],
+    "base_price": 12500.0
+  },
+  {
+    "name": "Vibrant Urban Inn Baner",
+    "city": "Baner",
+    "rating": 4.3,
+    "amenities": ["Free WiFi", "Gym", "Restaurant", "Room Service", "Parking", "Air Conditioning"],
+    "base_price": 3600.0
+  },
+  {
+    "name": "The Heritage Hotel Shivajinagar",
+    "city": "Shivajinagar",
+    "rating": 4.5,
+    "amenities": ["Free WiFi", "Restaurant", "Bar", "Room Service", "Parking", "Air Conditioning", "Breakfast Included"],
+    "base_price": 5000.0
+  },
+  {
+    "name": "Tech Corridor Suites Hinjewadi",
+    "city": "Hinjewadi",
+    "rating": 3.9,
+    "amenities": ["Free WiFi", "Gym", "Parking", "Air Conditioning"],
+    "base_price": 2800.0
+  },
+  {
+    "name": "Viman Vista Residency Viman Nagar",
+    "city": "Viman Nagar",
+    "rating": 4.2,
+    "amenities": ["Free WiFi", "Gym", "Restaurant", "Room Service", "Parking", "Air Conditioning"],
+    "base_price": 4500.0
+  },
+  {
+    "name": "Magarpatta Club Retreat Magarpatta",
+    "city": "Magarpatta",
+    "rating": 4.6,
+    "amenities": ["Pool", "Free WiFi", "Gym", "Spa", "Restaurant", "Bar", "Room Service", "Parking", "Air Conditioning", "Breakfast Included"],
+    "base_price": 6000.0
+  }
+]
